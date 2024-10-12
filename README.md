@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChromoXD
-- 👀 I’m interested in C# and JAVA
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me sharadc2009@gmail.com
+- 👀 I’m interested in C#,C++, (HTML/CSS/JS) and kotlin
+- 🌱 I’m currently learning kotlin
+- 📫 How to reach me Sharadwastaken@gmail.com
 
 <!---
 ChromoXD/ChromoXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
