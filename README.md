@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChromoXD
 - 👀 I’m interested in C#,C++, (HTML/CSS/JS) and kotlin
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning OpenGL
 - 📫 How to reach me Sharadwastaken@gmail.com
 
 <!---
