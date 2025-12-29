@@ -1,5 +1,8 @@
-### I like problems where understanding matters more than tooling.
+<img src="https://raw.githubusercontent.com/ChromoXD/Banner/refs/heads/main/PROGRAMMER.png" width="100%">
 
+--- 
+
+### I like problems where understanding matters more than tooling.
 
 Mostly working with **C++** and **math-heavy** problems.
 I enjoy simulations, low-level logic, and analysing why something behaves the way it does.
