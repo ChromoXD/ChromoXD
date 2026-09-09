@@ -2,15 +2,13 @@
 
 --- 
 
-### I like problems where understanding matters more than tooling.
-
-Mostly working with **C++** and **math-heavy** problems.
+I mostly work with **C++** and **mathematical** problems.
 I enjoy simulations, low-level logic, and analysing why something behaves the way it does.
 
 Right now:
 - Writing small C++ projects to improve reasoning, memory, and structure
-- Experimenting with JavaScript + Canvas for math visualizations
-- Pushing problem-solving from medium toward hard
+- Experimenting with OpenGL and Computer Graphics
+- Preparing for competitive programming
 
 Contact:
 - Email: sharadwastaken@gmail.com
