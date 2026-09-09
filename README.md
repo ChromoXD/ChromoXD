@@ -10,6 +10,8 @@ Right now:
 - Experimenting with OpenGL and Computer Graphics
 - Preparing for competitive programming
 
+<img src="https://terminal-identity-opal.vercel.app/api?name=Sharad&username=ChromoXD&role=Programmer&tagline=Driven+By+curiosity%7E&status=available+for+cool+internet+projects&command=make+oldconfig&theme=obsidian%2Fgraphite&avatar=CZ&pattern=pulse&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&motion=pulse&contribTheme=constellation&bio=Just+another+Kid+on+the+internet%2C+enjoying+implementing+his+knowledge" width="100%" alt="Terminal identity card" />
+
 Contact:
 - Email: sharadwastaken@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sharad-chandra-843130343/
