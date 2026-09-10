@@ -1,5 +1,7 @@
 <img src="https://terminal-identity-opal.vercel.app/api?name=Sharad&username=ChromoXD&role=Programmer&tagline=Driven+By+curiosity%7E&status=available+for+cool+internet+projects&command=make+oldconfig&theme=obsidian%2Fgraphite&avatar=CZ&pattern=pulse&width=980&height=auto&showLangs=on&showContribs=on&langCount=5&motion=pulse&contribTheme=constellation&bio=Just+another+Kid+on+the+internet%2C+enjoying+implementing+his+knowledge" width="100%" alt="Terminal identity card" />
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 I mostly work with **C++** and **mathematical** problems.
 I enjoy simulations, low-level logic, and analysing why something behaves the way it does.
 
