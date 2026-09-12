@@ -2,9 +2,15 @@
 
 
 ![Banner](https://github.com/ChromoXD/Banner/blob/main/Subtext.png)
-
-[![My Image](https://github.com/ChromoXD/Banner/blob/main/Gmail.png)](sharadwastaken@gmail.com)
-[![My Image](https://github.com/ChromoXD/Banner/blob/main/LinkedIn.png)](https://www.linkedin.com/in/sharad-chandra-843130343/)
+<p align="center">
+  <a href="mailto:sharadwastaken@gmail.com">
+    <img src="https://github.com/ChromoXD/Banner/blob/main/Gmail.png" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sharad-chandra-843130343/">
+    <img src="https://github.com/ChromoXD/Banner/blob/main/LinkedIn.png" width="50">
+  </a>
+</p>
 
 <!---
 ChromoXD/ChromoXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
