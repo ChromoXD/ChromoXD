@@ -4,7 +4,7 @@
 ![Banner](https://github.com/ChromoXD/Banner/blob/main/Subtext.png)
 
 [![My Image](https://github.com/ChromoXD/Banner/blob/main/Gmail.png)](sharadwastaken@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/sharad-chandra-843130343/
+[![My Image](https://github.com/ChromoXD/Banner/blob/main/LinkedIn.png)](https://www.linkedin.com/in/sharad-chandra-843130343/)
 
 <!---
 ChromoXD/ChromoXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
