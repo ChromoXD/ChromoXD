@@ -3,7 +3,6 @@
 
 ![Banner](https://github.com/ChromoXD/Banner/blob/main/Subtext.png)
 
-Contact:
 [![My Image](https://github.com/ChromoXD/Banner/blob/main/Gmail.png)](sharadwastaken@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/sharad-chandra-843130343/
 
