@@ -4,11 +4,11 @@
 ![Banner](https://github.com/ChromoXD/Banner/blob/main/Subtext.png)
 <p align="center">
   <a href="mailto:sharadwastaken@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ChromoXD/Banner/main/Gmail.png" width="45%">
+    <img src="https://raw.githubusercontent.com/ChromoXD/Banner/main/Gmail.png" width="49%">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharad-chandra-843130343/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/ChromoXD/Banner/main/LinkedIn.png" width="45%">
+    <img src="https://raw.githubusercontent.com/ChromoXD/Banner/main/LinkedIn.png" width="49%">
   </a>
 </p>
 
